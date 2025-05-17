@@ -42,5 +42,5 @@
   <a href="https://barismercan.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</p> 
 
