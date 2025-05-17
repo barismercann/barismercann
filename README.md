@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDFDF&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Hasan+Barış+Mercan;Frontend+Developer;React+%26+TypeScript+Uzmanı;Teknoloji+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=6FDFDF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Merhaba%2C+Ben+Hasan+Barış+Mercan;Frontend+Developer;React+ve+TypeScript+Uzmanı;Teknoloji+Tutkunu" alt="Typing SVG" />
 </p>
+
 
 
 ## 🚀 Teknoloji Stack'im
