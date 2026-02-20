@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Merhaba,+Ben+Hasan+Barış+Mercan;Frontend+Developer;React+ve+TypeScript+Uzmanı;Teknoloji+Tutkunu&center=true&width=500&height=50&color=67CC2F" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Merhaba,+Ben+Hasan+Barış+Mercan;Full Stack+Developer;React+ve+TypeScript+Uzmanı;Teknoloji+Tutkunu&center=true&width=500&height=50&color=67CC2F" />
 </p>
 
 
